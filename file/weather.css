@@ -1,0 +1,49 @@
+#bar {
+position: absolute;
+z-index: -100;
+width: 440px;
+left: 50%;
+margin-left: -252px;
+margin-top: 230px
+}
+#weather {
+position: absolute;
+z-index: 10;
+color: white;
+width: 440px;
+margin-left: 12px;
+margin-top: 225px;
+}
+#date {
+text-align: left;
+font-size: small;
+padding-top: 10px;
+padding-bottom: 5px;
+}
+#city {
+text-align: left;
+font-size: large;
+padding-bottom: 5px;
+}
+#current {
+text-align: left;
+font-size: medium;
+padding-bottom: 5px;
+}
+#img {
+position: absolute;
+z-index: 100;
+margin-top: -140px;
+margin-left: 100px;
+}
+#temp {
+text-align: right;
+font-size: 37px;
+margin-top: -75px;
+margin-right: 22px;
+}
+#hilo {
+text-align: right;
+font-size: large;
+margin-right: 22px;
+}
