@@ -32,7 +32,7 @@ margin-left: 55px;
 position: absolute;
 z-index: -15;
 margin-top: 175px;
-margin-left: 15px;
+left: 15px;
 }
 iframe {
 position: absolute;
